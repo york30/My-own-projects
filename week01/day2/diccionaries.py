@@ -1,0 +1,4 @@
+capitals = {
+    'Peru': 'Lima',
+    
+}

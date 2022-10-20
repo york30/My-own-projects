@@ -1,0 +1,5 @@
+print("Hello world", end = ',')
+print ("My name is York")
+print("=" * 20, end= '|')
+print(" This is a title ", end = '|')
+print("=" * 20)

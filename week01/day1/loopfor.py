@@ -1,2 +1,2 @@
-for counter in range(2, 12, 2):
+for counter in range(2, 12, 3):
     print(counter)
